@@ -3,3 +3,4 @@ Learning Git
 Learning automation
 Student: Jordan Garcia
 Topics: Git, branching, merging, CI
+Version control helps track changes and collaborate
