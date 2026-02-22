@@ -4,3 +4,4 @@ Development
 Testing
 Deployment
 Student: Jordan Garcia
+Requirements: gather user needs before coding
