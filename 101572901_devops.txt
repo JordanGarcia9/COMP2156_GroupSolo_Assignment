@@ -4,3 +4,4 @@ Learning automation
 Student: Jordan Garcia
 Topics: Git, branching, merging, CI
 Version control helps track changes and collaborate
+CI can run tests automatically on every push
