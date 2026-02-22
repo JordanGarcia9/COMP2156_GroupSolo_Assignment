@@ -6,3 +6,4 @@ Deployment
 Student: Jordan Garcia
 Requirements: gather user needs before coding
 Maintenance: bug fixes and updates after release
+Documentation improves handoff and future changes
