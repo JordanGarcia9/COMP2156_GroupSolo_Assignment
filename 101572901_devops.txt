@@ -2,3 +2,4 @@ COMP2156 DevOps Course
 Learning Git
 Learning automation
 Student: Jordan Garcia
+Topics: Git, branching, merging, CI
