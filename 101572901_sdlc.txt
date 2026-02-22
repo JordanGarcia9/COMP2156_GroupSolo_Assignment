@@ -1,0 +1,6 @@
+Software Development Life Cycle
+Planning
+Development
+Testing
+Deployment
+Student: Jordan Garcia
